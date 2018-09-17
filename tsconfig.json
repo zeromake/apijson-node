@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "commonjs", // 目标代码模块方式
+      "outDir": "dist",
+      "sourceMap": true,
+      "target": "es5" // 目标代码平台
+    },
+    "files": [
+       "./src/index.ts"
+    ]
+}
